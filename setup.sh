@@ -25,4 +25,4 @@ else
 echo "Wrong input"
 fi
 chmod +x update.sh
-chmod +x zVirus
+chmod +x sattpaingVirus
