@@ -16,7 +16,8 @@ echo -e "
                                                                                                          "
 echo -e "                         
                                                                                                          "
-echo -e "                         
+echo -e "                                                                                                  "
+echo -e "            
 
 ╱╱╱╱╱╱╭╮╱╭╮
 ╱╱╱╱╱╭╯╰┳╯╰╮
@@ -25,13 +26,8 @@ echo -e "
 ┣━━┃╭╮┃╰╮┃╰┫╰╯┃╭╮┃┃┃┃┃╰╯┃
 ╰━━┻╯╰┻━╯╰━┫╭━┻╯╰┻┻╯╰┻━╮┃
 ╱╱╱╱╱╱╱╱╱╱╱┃┃╱╱╱╱╱╱╱╱╭━╯┃
-╱╱╱╱╱╱╱╱╱╱╱╰╯╱╱╱╱╱╱╱╱╰━━╯                                                                            "
-echo -e "                                                 
-
-                                                                                                        "
-echo -e "        
-
-                                                                                               \e[0m"
+╱╱╱╱╱╱╱╱╱╱╱╰╯╱╱╱╱╱╱╱╱╰━━╯                                                                                                                                           "
+echo -e "                                                                                                    \e[0m"
 echo -e "\e[91m --- Sattpaing Virus Current Version copy.code | Coded By:sattpaing---\e[0m"
 echo -e "\e[34m\"If you are too lazy to type a single command,"
 echo -e " Allow my programs to do it for you.\"\e[0m"
