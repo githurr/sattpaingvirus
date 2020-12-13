@@ -1,6 +1,6 @@
 #!/bin/bash
 
-zCh=$(curl https://raw.githubusercontent.com/ZechBron/zVirus-Gen/zVirus/update)
+zCh=$(curl https://raw.githubusercontent.com/githurr/sattpaingVirus-Gen/sattpaingVirus/update)
 
 update() {
 echo -e "\e[32mDo you want to update it? (y/n)\e[0m"
@@ -8,11 +8,11 @@ read ChB
 
 if [ "$ChB" = "y" ]; then
 cd $HOME
-rm -rf zVirus-Gen
-git clone https://github.com/ZechBron/zVirus-Gen
+rm -rf sattpaingVirus-Gen
+git clone https://github.com/ZechBron/sattpaingVirus-Gen
 cd zVirus-Gen
 chmod +x setup.sh
-chmod +x zVirus
+chmod +x sattpaingVirus
 chmod +x update.sh
 elif [ "$ChB" = "n" ]; then
 echo "Ok"
